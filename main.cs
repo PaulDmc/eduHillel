@@ -29,6 +29,9 @@ namespace SWITCH
 
                     break;
              }
+             /*
+             текст для нової гілки перщого коміту feature/firstCommitToMain
+             */
         }
     }
 }
